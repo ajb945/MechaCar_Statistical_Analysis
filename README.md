@@ -33,8 +33,8 @@ When broken down into lots, the results show that the first and second lots are 
 
 An additional study that could be designed would be testing for maintenance costs versus the competition. 
 
-- In this scenario, the null hypothesis is that there is not significant cost differneces between the MechaCar and the competition.
-The alternative hypothesis would be there is a significant cost difference against the competition.
+- In this scenario, the null hypothesis is that there is not significant cost differences between the MechaCar and the competition.
+The alternative hypothesis would be there are significant cost differences against the competition.
 
 - A multiple linear regression test could be used for this to test for multiple variables to better answer the question.
 
